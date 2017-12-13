@@ -1,0 +1,10 @@
+.app {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sup {
+    max-width: 50%;
+    font-size: 1.5rem;
+}
