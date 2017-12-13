@@ -3,11 +3,10 @@
         [
             "env", {
                 "targets": {
-                    "browsers": "> 5%"
+                    "browsers": "last 2 versions"
                 }
             }
         ],
-        "react",
-        "react-optimize"
+        "react"
     ]
 }
