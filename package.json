@@ -1,0 +1,26 @@
+{
+  "name": "react-playground",
+  "version": "1.0.0",
+  "description": "Quick, Unopinionated Playground for React",
+  "main": "/dist/index.js",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/flasd/react-playground.git"
+  },
+  "keywords": [
+    "react",
+    "playground",
+    "quick",
+    "experiment"
+  ],
+  "author": "Marcel de Oliveira Coelho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flasd/react-playground/issues"
+  },
+  "homepage": "https://github.com/flasd/react-playground#readme"
+}
